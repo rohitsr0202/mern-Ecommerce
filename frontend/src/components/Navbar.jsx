@@ -15,7 +15,7 @@ const Navbar = () => {
 				<div className='flex flex-wrap justify-between items-center'>
 					
 					<Link to='/' className='text-2xl font-bold text-emerald-400 items-center space-x-2 flex'>
-						 <img src="./fa67eefbfc3e35b9b721b5e8ecdcbee5.jpg" alt='logo' className='w-9 h-9 bg-red-50 object-contain rounded-full' />
+						 <img src="./fa67eefbfc3e35b9b721b5e8ecdcbee5.jpg" alt='logo' className='w-9 h-9 bg-red-50 object-contain rounded-full mr-4' />
 						Loosely Fit
 					</Link>
 
